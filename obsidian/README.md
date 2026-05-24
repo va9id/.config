@@ -9,3 +9,4 @@ Plugins, configs, and templates I use in Obsidian.
 - Tab Switcher
 - Templater
 - Various Complements
+- [Directory Summary](https://github.com/va9id/obsidian-directory-summary)

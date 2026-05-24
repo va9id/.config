@@ -14,6 +14,7 @@ chruby ruby-3.1.3 # run chruby to see actual version
 # export PATH="$PATH:/Users/<YOUR_USER>/.local/bin"
 
 # git
+alias gd="git diff"
 alias ga="git add"
 alias gc="git commit -m"
 alias gp="git push"
