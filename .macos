@@ -11,11 +11,6 @@ defaults write com.apple.screencapture type jpg
 defaults write com.apple.screencapture name -string screenshot
 defaults write com.apple.screencapture include-date -bool false
 
-# disable personalized advertising
-defaults com.apple.AdLib forceLimitAdTracking -bool true
-defaults com.apple.AdLib allowApplePersonalizedAdvertising -bool false
-defaults com.apple.AdLib allowIdentifierForAdvertising -bool false
-
 # disable crash reporter
 defaults write com.apple.CrashReporter DialogType -string none
 
