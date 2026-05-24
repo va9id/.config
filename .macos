@@ -1,7 +1,7 @@
 # --------- General ---------
 
 # save to disk not icloud by default
-defaults write -g NSDocumentSaveNewDocumentsToCloud -bool true
+defaults write -g NSDocumentSaveNewDocumentsToCloud -bool false
 
 # jump to the spot that's clicked on the scroll bar
 defaults write -g AppleScrollerPagingBehavior -bool true
