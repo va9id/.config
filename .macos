@@ -1,0 +1,38 @@
+# --------- General ---------
+
+# save to disk not icloud by default
+defaults write -g NSDocumentSaveNewDocumentsToCloud -bool true
+
+# jump to the spot that's clicked on the scroll bar
+defaults write -g AppleScrollerPagingBehavior -bool true
+
+# screenshots (default type, name)
+defaults write com.apple.screencapture type jpg
+defaults write com.apple.screencapture name -string screenshot
+defaults write com.apple.screencapture include-date -bool false
+
+# disable personalized advertising
+defaults com.apple.AdLib forceLimitAdTracking -bool true
+defaults com.apple.AdLib allowApplePersonalizedAdvertising -bool false
+defaults com.apple.AdLib allowIdentifierForAdvertising -bool false
+
+# disable crash reporter
+defaults write com.apple.CrashReporter DialogType -string none
+
+# --------- Finder ---------
+
+# allow quitting via command Q
+defaults write com.apple.finder QuitMenuItem -bool true
+
+# show all files and their extensions
+defaults write com.apple.finder AppleShowAllExtensions -bool true
+defaults write com.apple.finder AppleShowAllFiles -bool true
+
+# show directories first
+defaults write com.apple.finder _FXSortFoldersFirst -bool true
+
+# --------- Activity Monitor ---------
+
+# sort by CPU usage
+defaults write com.apple.ActivityMonitor SortColumn -string CPUUsage
+defaults write com.apple.ActivityMonitor SortDirection -int 0
