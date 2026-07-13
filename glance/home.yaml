@@ -4,41 +4,41 @@
   head-widgets:
       - type: videos
         channels:
-            - UC1F_20FzlcnC38qMY4JjjDg # filty
-            - UC1BScbRxSQa_wh4QSz3-Lqw # from my left
-            - UC4lG2jQuTM1t80LDWuSv2Cg # picking nuggets
-            - UCbDmEdLs-SB3FjrDFQJ4TDg # reysau
-            - UCh_dVD10YuSghle8g6yjePg # naval
-            - UCfpCQ89W9wjkHc8J_6eTbBg # outdoor boys
-            - UCtYKe7-XbaDjpUwcU5x0bLg # neo
-            - UCYJv5A6T5TAVG4CpewSXurg # balon
-            - UC7VP31FVLPlzBI-JMKz_G1g # levi
-            - UCx1XpoH1nNUY7ep6cRBRi9w # specs
-            - UCUkyyRJdVdXFmBuxPLFYmPw # kboges
-            - UC6aTLuI_j4-0wiDSzmaPctQ # sam meech-ward
-            - UCj1VqrHhDte54oLgPG4xpuQ # stuff made here
-            - UCcaTUtGzOiS4cqrgtcsHYWg # jvscholz
-            - UCtBjt766LG9EDVKZx4Q4IHw # pnl
-            - UCFkew7OWYW2AViFz22dy4Og # beny jr
-            - UCjbUKFFbH0JYU94ONGDeM-A # lit nomad
-            - UC4NNPgQ9sOkBjw6GlkgCylg # ben vallack
-            - UCU5adS8d-YX7GbJcnH0x6uA # superfastmatt
-            - UCrx2zrPjhGRi9TwszZiLwEg # horses
-            - UC_mmaVYaFmlfdxuKb6U69Yw # speeed
-            - UCYXlRJxXcBmE3uuKyC7JaCA # alaskan cabin adventures
-            - UCUMwY9iS8oMyWDYIe6_RmoA # no boilerplate
-            - UCxDZs_ltFFvn0FDHT6kmoXA # bald and bankrupt
-            - UCIh4fbWil1PPwvSxA1bAl2A # swann
-            - UCYO_jab_esuFRV4b17AJtAw # 3blue1brown
-            - UC1Ke8iR_NXio8H7GaB0S9pw # dtf
-            - UCk2sx_3FUkKvDGlIhdUQa8A # billy ellis
-            - UCtYrlYGxldKoepbmtZH9cNA # keeping a lighthouse
-            - UCEmv_FjXdG33u8S0rc6-nJA # avg jacked
-            - UC8EQAfueDGNeqb1ALm0LjHA # exploring alternatives
-            - UCmiSIMW0lgfcMMcKvYOdklQ # nick fry
-            - UCFvWOQur3DkGZ0Kfmns-7iw # paulo
-            - UCOg8zdpvlml2MxY3aSDTtnw # xtra filthy
-            - UCHASrbCS-niYRn-Y3WX38pA # small brainded american
+            - UC1F_20FzlcnC38qMY4JjjDg
+            - UC1BScbRxSQa_wh4QSz3-Lqw
+            - UC4lG2jQuTM1t80LDWuSv2Cg
+            - UCbDmEdLs-SB3FjrDFQJ4TDg
+            - UCh_dVD10YuSghle8g6yjePg
+            - UCfpCQ89W9wjkHc8J_6eTbBg
+            - UCtYKe7-XbaDjpUwcU5x0bLg
+            - UCYJv5A6T5TAVG4CpewSXurg
+            - UC7VP31FVLPlzBI-JMKz_G1g
+            - UCx1XpoH1nNUY7ep6cRBRi9w
+            - UCUkyyRJdVdXFmBuxPLFYmP
+            - UC6aTLuI_j4-0wiDSzmaPctQ
+            - UCj1VqrHhDte54oLgPG4xpuQ
+            - UCcaTUtGzOiS4cqrgtcsHYWg
+            - UCtBjt766LG9EDVKZx4Q4IHw
+            - UCFkew7OWYW2AViFz22dy4Og
+            - UCjbUKFFbH0JYU94ONGDeM-A
+            - UC4NNPgQ9sOkBjw6GlkgCylg
+            - UCU5adS8d-YX7GbJcnH0x6uA
+            - UCrx2zrPjhGRi9TwszZiLwEg
+            - UC_mmaVYaFmlfdxuKb6U69Yw
+            - UCYXlRJxXcBmE3uuKyC7JaCA
+            - UCUMwY9iS8oMyWDYIe6_RmoA
+            - UCxDZs_ltFFvn0FDHT6kmoXA
+            - UCIh4fbWil1PPwvSxA1bAl2A
+            - UCYO_jab_esuFRV4b17AJtAw
+            - UC1Ke8iR_NXio8H7GaB0S9pw
+            - UCk2sx_3FUkKvDGlIhdUQa8A
+            - UCtYrlYGxldKoepbmtZH9cNA
+            - UCEmv_FjXdG33u8S0rc6-nJA
+            - UC8EQAfueDGNeqb1ALm0LjHA
+            - UCmiSIMW0lgfcMMcKvYOdklQ
+            - UCFvWOQur3DkGZ0Kfmns-7iw
+            - UCOg8zdpvlml2MxY3aSDTtnw
+            - UCHASrbCS-niYRn-Y3WX38pA
   columns:
       - size: full
         widgets:
