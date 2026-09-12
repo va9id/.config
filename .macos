@@ -15,7 +15,8 @@ defaults write com.apple.screencapture include-date -bool false
 defaults write com.apple.CrashReporter DialogType -string none
 
 ## reduce motion
-defaults write com.apple.universalaccess reduceMotion -bool true
+#defaults write com.apple.universalaccess reduceMotion -bool true
+
 # --------- Finder ---------
 
 ## allow quitting via command Q
@@ -42,3 +43,5 @@ defaults write com.apple.ActivityMonitor SortDirection -int 0
 ## hide dock
 defaults write com.apple.Dock autohide -bool true
 
+
+killall Finder Dock
