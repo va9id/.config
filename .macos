@@ -14,6 +14,9 @@ defaults write com.apple.screencapture include-date -bool false
 ## disable crash reporter
 defaults write com.apple.CrashReporter DialogType -string none
 
+## disable text replacement that may transfer from iphone to mac
+defaults write -g WebAutomaticTextReplacementEnabled -bool false
+
 ## reduce motion
 #defaults write com.apple.universalaccess reduceMotion -bool true
 
